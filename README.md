@@ -1,6 +1,5 @@
 # GTools
 
----
 
 > GTools is a golang library that provides some handy ways to handle many of the typical requirements when developing GO
 > applications.
